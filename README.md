@@ -46,6 +46,9 @@ pip install pandas numpy phik scipy matplotlib seaborn plotly
     ```
 
 2. Install the dependencies listed above.
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 ## Notebook Structure
 The notebook follows a structured workflow, outlined as follows:
